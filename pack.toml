@@ -1,0 +1,14 @@
+name = "Craft Nectar Modpack"
+author = "Sewdohe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f4428ef43f2de3db5af4eaa9363bf4905cc372512a25e37a0232cdf6306ab7dc"
+
+[versions]
+fabric = "0.14.23"
+forge = "52.1.0"
+minecraft = "1.20.1"
