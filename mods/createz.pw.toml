@@ -1,0 +1,13 @@
+name = "CreateZ"
+filename = "createz_1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/py6IRdZ8/versions/t0KB6D6q/createz_1.0.jar"
+hash-format = "sha512"
+hash = "a08467f50f288be20021bee6727e8daafaa912a514cac7911d5f69e866da395d92e67197af7a70c7ed881112c0b0f8f2bab812b70b1ce2584d0c87715d89b624"
+
+[update]
+[update.modrinth]
+mod-id = "py6IRdZ8"
+version = "t0KB6D6q"

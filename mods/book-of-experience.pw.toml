@@ -1,0 +1,13 @@
+name = "Book of Experience"
+filename = "BookOfExperience-v3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KfqvJMNp/versions/Hbu5Anei/BookOfExperience-v3.1.1.jar"
+hash-format = "sha512"
+hash = "4d5397a508d91657ce40be7bac3bdd2d87e24a36891eace42caae0cb22bf15339b5ceeabfac98d477efa42d0f121b547762c1a13c92f5cce7be1de52b90afe20"
+
+[update]
+[update.modrinth]
+mod-id = "KfqvJMNp"
+version = "Hbu5Anei"
