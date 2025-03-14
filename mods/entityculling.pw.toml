@@ -1,13 +1,13 @@
-name = "Entity Culling Fabric/Forge"
-filename = "entityculling-fabric-1.6.2-mc1.20.1.jar"
-side = "both"
+name = "Entity Culling"
+filename = "entityculling-fabric-1.7.3-mc1.20.1.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8e4be2bb9703deddb3d3d212c812cdc1f9de072b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/zdOMtwS8/entityculling-fabric-1.7.3-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "b2300760be3e3fb7b15a7fa8c6d30477ab45ae21d612425d8f847b5128f57cc3fbec71e7c9e914f24c99051f823917c47321f4b67b2007b6bb2e59ab7bb29e7b"
 
 [update]
-[update.curseforge]
-file-id = 4763646
-project-id = 448233
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "zdOMtwS8"
