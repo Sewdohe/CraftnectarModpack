@@ -115,6 +115,11 @@ hash = "932f0b08f73967909d5df35da084b2366967a4396ae459346d71c23aa0f68a67"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "85fc3f866a8f0c3b1b208c830d0fb737cc13f9fe3928a4ca5f005fdadfc6d175"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c688319082fabc81ac56fe130530256b8e3326900a132cb8a839c46c1537813f"
 metafile = true
