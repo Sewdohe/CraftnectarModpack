@@ -195,6 +195,16 @@ hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
 metafile = true
 
 [[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "d92db05e7d0a593cf6141901c4d7722544c1f6c82be3b2fa5b0c37383065fe14"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "a37c3cff45abb836d66cd1dd80bad63fe023eb6a08b7001753bf6437f1884d4e"
+metafile = true
+
+[[files]]
 file = "mods/book-of-experience.pw.toml"
 hash = "3e1da1d5c2df8fc1e05be8b89ade78ba753e967dd197df8f9c8a09c101931aae"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "25efecfcf6bd2ea3e0500b7fd4f671d7228672fce88915f86e32b2702bafda79"
+metafile = true
+
+[[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "cb6d2d40f3ff485cafc010b1c3b2b3ba604dd1819420685cf08d0cb45382591a"
 metafile = true
 
 [[files]]
@@ -310,6 +325,11 @@ hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
 metafile = true
 
 [[files]]
+file = "mods/crosshair-damage-indicator.pw.toml"
+hash = "48a37abefa6d94e1d67467ba4b9a369ab9e8c97465d9716ac915ce2644b51912"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
 metafile = true
@@ -340,6 +360,11 @@ hash = "0338c324959d70066d331fb2a510939f2e6dbb1ece6996e44adb6c095b0a3ddf"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "5200b85159d7ceff7799d42b99928fc83551792a27a3a7b06a2832ce2fbc8563"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "ead9a96e008129143a6928305600172051275e4dc70a6cfd5b099ac9d5be89c2"
 metafile = true
@@ -352,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "7eaa3b8c87c2dc1d85e8b523ad32ad4c924453bc2a8f561c3fcdb01327e3450a"
 metafile = true
 
 [[files]]
@@ -525,6 +555,11 @@ hash = "2425c55fd9d6da8391c207b292049a860e2247b3fa74951a42f6174b347e00cf"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "373ec22dd58dde230d1790429ab57eabe5cde34bdf4ee8121ffc1d5e9cd1a2f2"
+metafile = true
+
+[[files]]
 file = "mods/iris-mc1.20.1-1.6.10.jar"
 hash = "20f00774c6bce6b3c9fd4d508240880a60a04a3ec987235e257f6e6b9e182514"
 
@@ -619,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling-1.20.1-0.19.0.jar"
 hash = "8bd332613996b6da00318888f33c4704dba21083e1f7a2503969eb7c7d388cb0"
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
@@ -887,6 +927,21 @@ metafile = true
 [[files]]
 file = "mods/wizardz.pw.toml"
 hash = "f5d3c53f89513fb23e0072847ac7345807db96271fd1e2a6ebff9b4bbbf2e7af"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "342271de7b19663d195470ff4009bc106948a89477ab0da68d5b3265e883ef3c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "dba82d56d2514555ac3e326359a913c804b1a1137a6d696d80f73aadaf0ff62f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d5763cae561c3c23d431275e5d930a43bae2cc8e71f39a50a1b3d15b70a5b3f5"
 metafile = true
 
 [[files]]
