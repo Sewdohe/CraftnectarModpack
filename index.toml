@@ -145,6 +145,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "9cbaf2df74043cccd29eb9517cc58046c7c18908208861c94edda2be1ec1e6cd"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "26a5cee35b797140d098a3e8c039b868edd1779e28d4a2cba1cd73e8ed32ca34"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "1213577948764954f685da7f84dc10aa531ec2bb74acb672053ea463fd979535"
 metafile = true
 
 [[files]]
@@ -205,6 +215,11 @@ hash = "25efecfcf6bd2ea3e0500b7fd4f671d7228672fce88915f86e32b2702bafda79"
 metafile = true
 
 [[files]]
+file = "mods/cadmus.pw.toml"
+hash = "0ac87c36afa68211443a30c9061985a928c49f9db90d666615e590a8cf21ece3"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
@@ -227,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "bb3551627861be5fd2d873508992ffa2ca65dbcad3056d6df0cb101b5ad87cba"
 metafile = true
 
 [[files]]
@@ -290,6 +310,11 @@ hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
+metafile = true
+
+[[files]]
 file = "mods/data-attributes-directors-cut.pw.toml"
 hash = "04d56ce53d087e1c2a7d628d86efc87e4c3d96dc64a991eb825f920a5676320d"
 metafile = true
@@ -317,6 +342,16 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "ead9a96e008129143a6928305600172051275e4dc70a6cfd5b099ac9d5be89c2"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
 metafile = true
 
 [[files]]
@@ -455,6 +490,11 @@ hash = "cabd614e238f5871fa5097d4e480c6765eace7864b7a094913f27631374d36d5"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+hash = "3460277f521c66c6f32ad2b64369139c01d8fbc1237266d7416d43de758c3bb4"
+metafile = true
+
+[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "d409d08d17fbf9b9e0d673e236df1df66aa3a7c8646bf0ba60fba29671b8941f"
 metafile = true
@@ -557,6 +597,11 @@ hash = "5590eaf0dfc38b96940a8a699079052a7c5723c03528b0cfaca646c2e9d64da8"
 metafile = true
 
 [[files]]
+file = "mods/more-bows-restrung.pw.toml"
+hash = "647ea48de0ed2f7c03b4cb074eb494e86f6d6da5d43617f9b35b4afd6ac3df66"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
@@ -578,6 +623,11 @@ hash = "8bd332613996b6da00318888f33c4704dba21083e1f7a2503969eb7c7d388cb0"
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
@@ -651,6 +701,11 @@ hash = "e9aa29326f72556e4e3707a78567dc59a22aa06a0378531b381100004e14d8c8"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "a7757434515ebe45f2c6fa27f3a7cff433a1b0fbf166ad994846b18eaf1886c9"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "6f1c556771ecbda60b1b2f84e428428937e259aa572e8459b13366c7be824664"
 metafile = true
@@ -668,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a261f3633b1536d3432124767c62e752af855fa2a833ed29a75324ab90379d9e"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "1dec5eab016f2b91c2b4c39cb6d0c3f9c9e0f41de359670e9518078dd788240f"
 metafile = true
 
 [[files]]
@@ -713,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "4914ed8c85496059f8dbd4eccc4009bc827efb3398d0ccc101517723c8da8e34"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "d830988445f996067ab8a0d808a3515fbdb219313167824420d28ced2d062405"
 metafile = true
 
 [[files]]
@@ -770,8 +835,18 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
+file = "mods/thin-air.pw.toml"
+hash = "967ee6f9c34f65c71d461bc43d2e46eb3d6057015e0cd7e01d9845b0e810d09f"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "af8c4da9d92fa2e95a4f147cb6b1577c89cd82265d2c3317076a7c16dc8f4d87"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "405d5102dc84d1e3a041a5c12e7be8ec970b5a5fc89b30503b8c840464015c9d"
 metafile = true
 
 [[files]]
