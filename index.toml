@@ -930,11 +930,6 @@ hash = "f5d3c53f89513fb23e0072847ac7345807db96271fd1e2a6ebff9b4bbbf2e7af"
 metafile = true
 
 [[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "342271de7b19663d195470ff4009bc106948a89477ab0da68d5b3265e883ef3c"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "dba82d56d2514555ac3e326359a913c804b1a1137a6d696d80f73aadaf0ff62f"
 metafile = true
