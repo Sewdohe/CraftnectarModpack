@@ -1,0 +1,13 @@
+name = "PlayerEX: Directors Cut"
+filename = "playerex-directors-cut-4.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4UKlJSdk/versions/D0jTfKs7/playerex-directors-cut-4.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "768d62d2e12b469816dcd92ae2a32b90eefac7d8f6181f2b857d335aa3d4091e76d36eed44f91d1de9cd4ba24f42ec7f8c05b0f3091a6df4ac9a7cafccd60003"
+
+[update]
+[update.modrinth]
+mod-id = "4UKlJSdk"
+version = "D0jTfKs7"

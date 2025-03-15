@@ -290,6 +290,11 @@ hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
 metafile = true
 
 [[files]]
+file = "mods/data-attributes-directors-cut.pw.toml"
+hash = "04d56ce53d087e1c2a7d628d86efc87e4c3d96dc64a991eb825f920a5676320d"
+metafile = true
+
+[[files]]
 file = "mods/death-knights.pw.toml"
 hash = "ef745f8cc5a093b4a1d6f7809f8bdc9b95a6bc2b4ef1a74aca9adbdf7ecf58eb"
 metafile = true
@@ -509,16 +514,6 @@ hash = "fb4040773ed0eca07efb4a822f88990df3ad6ff4b50c9616032237400638d85f"
 metafile = true
 
 [[files]]
-file = "mods/levelz-additions.pw.toml"
-hash = "94eb13bca6f4d28c779904995797cb27bec3b0e0d28aa3bf0ed1ef9eec6a6496"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "1082747346df30fd1169a9396e681ea54e47508339267255acdeb624bd884b68"
-metafile = true
-
-[[files]]
 file = "mods/libz.pw.toml"
 hash = "37657a35e3037bf9015ae18ac034d9d481c2f981bdd304f27af9dad093a12bc7"
 metafile = true
@@ -616,6 +611,11 @@ hash = "1677c0ba697bb629bd38d574f3bc805a07bc8aed1e3003e7b8e6b623fc9572c1"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
 metafile = true
@@ -638,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
+file = "mods/playerex-directors-cut.pw.toml"
+hash = "510582e5077f5680b926d6a386155c6253c75095bb0c21f625e08d261a84f5c1"
 metafile = true
 
 [[files]]
@@ -792,6 +797,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
+metafile = true
+
+[[files]]
+file = "mods/wizardex-directors-cut.pw.toml"
+hash = "2b065f3f0b97c1bd9cf5ab8e16f735154bb268a13e04ae2186e1f5fa454556a7"
 metafile = true
 
 [[files]]

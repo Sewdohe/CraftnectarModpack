@@ -1,0 +1,13 @@
+name = "WizardEx: Directors Cut"
+filename = "WizardEx-2.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XX7fPDsr/versions/3lkpmLF5/WizardEx-2.0.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "e39ae39b0814ae329098953266292c510d9d565af3a69fbb7d3aff5de759882ed93c891a091c788e9049fb3aea0661639d783803b7a84e82b19caab57c0ad8ce"
+
+[update]
+[update.modrinth]
+mod-id = "XX7fPDsr"
+version = "3lkpmLF5"
