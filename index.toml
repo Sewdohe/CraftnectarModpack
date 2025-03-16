@@ -145,11 +145,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "9cbaf2df74043cccd29eb9517cc58046c7c18908208861c94edda2be1ec1e6cd"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "bcea43f1396949332eb41ee3807dce173b9628f457d6d55594d993426c60b0f0"
 metafile = true
@@ -232,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "cb6d2d40f3ff485cafc010b1c3b2b3ba604dd1819420685cf08d0cb45382591a"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "0ac87c36afa68211443a30c9061985a928c49f9db90d666615e590a8cf21ece3"
 metafile = true
 
 [[files]]
@@ -723,6 +713,16 @@ metafile = true
 [[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "8f6b83625e06798510048832addd6b1bf709b5d5e7dba438d002fe2dc110981b"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "8f3fd1805565b5f16eb69fb8a14b3a38ed9a919b6df532769d1b7a790cc3cb21"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d9c5210eba2029803417c8bb52345bac716834e13ba0dc989b11b4fe98007a98"
 metafile = true
 
 [[files]]
