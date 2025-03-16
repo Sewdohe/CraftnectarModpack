@@ -340,6 +340,11 @@ hash = "04d56ce53d087e1c2a7d628d86efc87e4c3d96dc64a991eb825f920a5676320d"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
+metafile = true
+
+[[files]]
 file = "mods/death-knights.pw.toml"
 hash = "ef745f8cc5a093b4a1d6f7809f8bdc9b95a6bc2b4ef1a74aca9adbdf7ecf58eb"
 metafile = true
