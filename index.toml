@@ -960,11 +960,6 @@ hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "2d3583018b07595c2af66d006b04e408ae324a6a85adef5c454fd4507df0e195"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "bcfbad415e4c46e708c5566c069bee4fdb68d9a43bce1839613b4e59e3d17322"
 
