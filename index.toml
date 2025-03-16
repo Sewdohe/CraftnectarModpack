@@ -150,6 +150,11 @@ hash = "9cbaf2df74043cccd29eb9517cc58046c7c18908208861c94edda2be1ec1e6cd"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "bcea43f1396949332eb41ee3807dce173b9628f457d6d55594d993426c60b0f0"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "26a5cee35b797140d098a3e8c039b868edd1779e28d4a2cba1cd73e8ed32ca34"
 metafile = true
@@ -327,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/crosshair-damage-indicator.pw.toml"
 hash = "48a37abefa6d94e1d67467ba4b9a369ab9e8c97465d9716ac915ce2644b51912"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "1dcb516365d51f19d06743589864685f7c02c3476229a6b4af98f1a0d7ab8bc0"
 metafile = true
 
 [[files]]
@@ -618,6 +628,11 @@ hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "81c86e557ab5a136cab7dd0e058cc99d432bb1229b869fe015369ad172114e7a"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "4e026e566d9b5bf8bb9f528e8f0dbe66184e1f514cc00544a3363a21f2feb482"
 metafile = true
@@ -663,6 +678,11 @@ hash = "8bd332613996b6da00318888f33c4704dba21083e1f7a2503969eb7c7d388cb0"
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
 metafile = true
 
 [[files]]
@@ -746,6 +766,11 @@ hash = "e9aa29326f72556e4e3707a78567dc59a22aa06a0378531b381100004e14d8c8"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
+metafile = true
+
+[[files]]
 file = "mods/prometheus.pw.toml"
 hash = "a7757434515ebe45f2c6fa27f3a7cff433a1b0fbf166ad994846b18eaf1886c9"
 metafile = true
@@ -758,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "3e2a1448933199b681df01a7dbf50fb13bbd95e7d79d3e7f49dcc13f739ceaab"
+metafile = true
+
+[[files]]
+file = "mods/quality-sounds.pw.toml"
+hash = "ea185c2157036fa7c1487e8bdb84009aed77196a08dc3ff36423f6ce2189adb5"
 metafile = true
 
 [[files]]
@@ -840,6 +870,16 @@ file = "mods/sodium-fabric-mc1.20.1-0.5.3.jar"
 hash = "b10e60b8000194bc617fd2c396a8584a5cc33a3118c8b382128452c3f93f881d"
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "8fa4fd7d6da644f5fa814ba598101d3b33cf48a9b0dbabd1377248b495df25d3"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "6677b688d4d6ac20c1e9fe5df29f1e48931aca9275e0baa946fa278bf0f9f15d"
 metafile = true
@@ -897,6 +937,16 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "179b326687b34c0dde9370aedc47a7cdf5115483c2287df73c96b5380e31148e"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "88e6b3213a6bab1ad97c590235cddb43fad6e5696e9b7e87aac6db3f0c8d8e41"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
 metafile = true
 
 [[files]]
