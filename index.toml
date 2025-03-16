@@ -791,11 +791,6 @@ hash = "3e2a1448933199b681df01a7dbf50fb13bbd95e7d79d3e7f49dcc13f739ceaab"
 metafile = true
 
 [[files]]
-file = "mods/quality-sounds.pw.toml"
-hash = "ea185c2157036fa7c1487e8bdb84009aed77196a08dc3ff36423f6ce2189adb5"
-metafile = true
-
-[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
 metafile = true
