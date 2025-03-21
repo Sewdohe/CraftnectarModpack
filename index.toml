@@ -295,6 +295,11 @@ hash = "6c0a8f7c8e833b356f83de4e60952642c669d788ff49be95458b5a50979796f1"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "e121e2d616cb83674916872167815c49081d3bc82bc39bc5a2cccede409479b6"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
@@ -302,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
+metafile = true
+
+[[files]]
+file = "mods/create-engineer.pw.toml"
+hash = "082c674b04a0bce9b202f48df89c464ad90b6eb4b07491c919420b3314f1c98a"
 metafile = true
 
 [[files]]
@@ -460,6 +470,11 @@ hash = "64b486e16ccc051f897e7cc16ce33c45b3f7d45c3622544f15c54bb354efea76"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
+metafile = true
+
+[[files]]
 file = "mods/extra-rpg-attributes.pw.toml"
 hash = "bb49da2f0ea1c7f2dd9dd3a9ba94c9fd124f3eb9278d4411c1a480644910dba6"
 metafile = true
@@ -497,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "07a47e267bea1fdf72011e12b96521c08a8cf95078d1276b6ca655d0e183e432"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
 metafile = true
 
 [[files]]
@@ -604,8 +624,38 @@ hash = "ca07dc576184d489582263bdc7b7ce179f13ecffdc449032703c7b18d4112d50"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "1e1c072884e98d56434f75a2d1fcd2882e9c3a54f59b696943f658e2266ca9b0"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "e07373fddb7ef2f73b703409e2f0b47d1b0c055224527caff009dbb7ecb10553"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "31f0333aaa5f4f44e5ca3fbc84e102bff96069d3d6b5dc77ac2dfdc8452ab007"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "ab43867954375dfa066d8986b63b7458219718f4078eee60cdf8fbe38f86db48"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-furniture.pw.toml"
 hash = "fb4040773ed0eca07efb4a822f88990df3ad6ff4b50c9616032237400638d85f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "53d835813c824354c99a9c6a2cd11c073d6c0dfc2e8625e7e71f3be06eb292de"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "62a52fffcc4b1a84d176ee33a16f39625bde634c95e63675fa7a5cd4d6fc5199"
 metafile = true
 
 [[files]]
@@ -731,6 +781,11 @@ hash = "8f6b83625e06798510048832addd6b1bf709b5d5e7dba438d002fe2dc110981b"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "0cd69add62e07381eacd3abf2a9188b1a0e2648ab92ebefe82d93ffd229ddbca"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "8f3fd1805565b5f16eb69fb8a14b3a38ed9a919b6df532769d1b7a790cc3cb21"
 metafile = true
@@ -778,6 +833,21 @@ metafile = true
 [[files]]
 file = "mods/playerex-directors-cut.pw.toml"
 hash = "510582e5077f5680b926d6a386155c6253c75095bb0c21f625e08d261a84f5c1"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6e5dd71a6e6e250389501db7d83991a98190a6959e146586cacca8600508ccad"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-toms-simple-storag.pw.toml"
+hash = "6835ae0c7f066393ebf8d6a018f3861acac862e0a71224dcf55e808ecb356abb"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-travelers-backpack.pw.toml"
+hash = "4bc81079f72cae6865b61f996b0767d088221adf81452d234212a53bc7f9f720"
 metafile = true
 
 [[files]]
@@ -873,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/sizeshiftingpotions.pw.toml"
 hash = "df9c3a51e7f4a3090ab45aa41c41b17d3356b130e5a2b8fbcbbc48153104786e"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
 
 [[files]]
@@ -972,6 +1047,11 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "6d5ac3ede55fc03df56dbf655538179b2afe1425cfbeba7a9ba88e19cc9ec117"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Create: Engineers"
+filename = "create-engineers-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rERbPs4i/versions/I55ckzGe/create-engineers-1.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "b09ea0cdddc25ae15dd2e899accc1d427621b520b60383177dcae5db94ea5ebcef7d45b3833ae914625b0427d04238c12af8d900dbccc84e0361af994de92d7d"
+
+[update]
+[update.modrinth]
+mod-id = "rERbPs4i"
+version = "I55ckzGe"
