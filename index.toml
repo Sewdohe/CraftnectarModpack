@@ -836,6 +836,11 @@ hash = "510582e5077f5680b926d6a386155c6253c75095bb0c21f625e08d261a84f5c1"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6e5dd71a6e6e250389501db7d83991a98190a6959e146586cacca8600508ccad"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "e9aa29326f72556e4e3707a78567dc59a22aa06a0378531b381100004e14d8c8"
 metafile = true
