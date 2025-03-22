@@ -1,0 +1,13 @@
+name = "JumpAnimation"
+filename = "jumpanimation-1.0.0-fabric-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M5MuzrHF/versions/807izA5V/jumpanimation-1.0.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "797d7bce2286e227d3a4105501a9f3c0adb99b1a42cdf2aad8aecff80b826691f547227d165face39e46f76e7c612acc4cce6420aaf77a9d7c4a903d6cf3af1f"
+
+[update]
+[update.modrinth]
+mod-id = "M5MuzrHF"
+version = "807izA5V"

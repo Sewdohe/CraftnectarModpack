@@ -614,6 +614,11 @@ hash = "9f85ee9a48da4ead32ea56a7ea064a7002a406d1d87130ca60a41610285afa2b"
 metafile = true
 
 [[files]]
+file = "mods/jumpanimation.pw.toml"
+hash = "7fb908095a75923cae712138b456b634210c1f68d725c62b7521d350da2196bb"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
