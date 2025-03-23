@@ -310,6 +310,16 @@ hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
 metafile = true
 
 [[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "1dbc6dd24236373622e6cb58bf80b187c774d745d0f1e4dd63018544c862a584"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "7469476f6992f6d3b976e234146e7358975b74d93136ff20a6baaf45fb4db382"
+metafile = true
+
+[[files]]
 file = "mods/create-engineer.pw.toml"
 hash = "082c674b04a0bce9b202f48df89c464ad90b6eb4b07491c919420b3314f1c98a"
 metafile = true
