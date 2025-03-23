@@ -235,6 +235,11 @@ hash = "cb6d2d40f3ff485cafc010b1c3b2b3ba604dd1819420685cf08d0cb45382591a"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "d5e163b6c95b03aa6026f790b3955f3428021b0ac4540d2142e0c07f50dfaa16"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
@@ -387,6 +392,16 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "f7a00fedee0f4475b26485b4d533ecc4df9c1224248e6ed44f3160751639e220"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "f53127f5487705ab6eea8cd69a663f6d1cabc3d21aacfb0026d177c9842da4e0"
 metafile = true
 
 [[files]]
@@ -565,6 +580,11 @@ hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
 
 [[files]]
+file = "mods/gliders.pw.toml"
+hash = "99c62c9c13bf1486a1305246c0b0025f7b1748120725771b9be614169707c5f3"
+metafile = true
+
+[[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
 hash = "78af855ce4a3615de0046c0e7ddc0722166cf273555bd08384ec03ba6a1a44eb"
 metafile = true
@@ -704,6 +724,11 @@ hash = "7c37e08616fc1158f01cd11c086f736f7b6cc63ae64299444ebdc5be3f8d06a0"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix-fabric-1.17+-1.1.2.jar"
 hash = "a9fadc6d369e6bbfb10eab4c00780c3295292c634b6551d2e1e2897ec38b63ab"
 
@@ -836,6 +861,11 @@ hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
 metafile = true
@@ -936,6 +966,11 @@ hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a47d32bc04a461351608608f34543b818019ff928102422078f00d23b7a14fae"
+metafile = true
+
+[[files]]
 file = "mods/shield-api.pw.toml"
 hash = "b09902f82578ffc80dbf1d84aee798c53de0ac8c8b89a5e6284b74e6e32c690a"
 metafile = true
@@ -1020,6 +1055,11 @@ hash = "6d0f90e567e49885fa3d818d3644a774b89c545ea78dfa18a57015e736aca388"
 metafile = true
 
 [[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "6bfb09a5bf731cd8d347b8e77b0379c254b2e2dd2763c8051b6bfe122a22b7fb"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
@@ -1065,8 +1105,18 @@ hash = "6d5ac3ede55fc03df56dbf655538179b2afe1425cfbeba7a9ba88e19cc9ec117"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "f75ab965e4eb71aefb05a30a80433b94d582e6a68eb5e4d54a06dd43b0181244"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
 metafile = true
 
 [[files]]
