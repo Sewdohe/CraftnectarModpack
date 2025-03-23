@@ -565,6 +565,11 @@ hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-mod-fabric.pw.toml"
+hash = "78af855ce4a3615de0046c0e7ddc0722166cf273555bd08384ec03ba6a1a44eb"
+metafile = true
+
+[[files]]
 file = "mods/health-indicators.pw.toml"
 hash = "cabd614e238f5871fa5097d4e480c6765eace7864b7a094913f27631374d36d5"
 metafile = true
