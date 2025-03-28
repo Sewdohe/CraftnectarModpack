@@ -1040,11 +1040,6 @@ hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
 metafile = true
 
 [[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
 metafile = true
