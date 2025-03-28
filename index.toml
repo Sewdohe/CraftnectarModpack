@@ -235,11 +235,6 @@ hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
 
 [[files]]
-file = "mods/cardboard.pw.toml"
-hash = "afa5182cc7b42de14d76a7a611225095710ac10fe74613df700d851deddbb291"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
 metafile = true
