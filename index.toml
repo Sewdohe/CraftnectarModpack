@@ -590,11 +590,6 @@ hash = "3460277f521c66c6f32ad2b64369139c01d8fbc1237266d7416d43de758c3bb4"
 metafile = true
 
 [[files]]
-file = "mods/homabric.pw.toml"
-hash = "8666a48e264074197f9ddc88606cbb3efe2e1f9ef50fc603928d76d1e009f4f2"
-metafile = true
-
-[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "d409d08d17fbf9b9e0d673e236df1df66aa3a7c8646bf0ba60fba29671b8941f"
 metafile = true
