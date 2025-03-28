@@ -200,16 +200,6 @@ hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
 metafile = true
 
 [[files]]
-file = "mods/blossomhomes.pw.toml"
-hash = "d92db05e7d0a593cf6141901c4d7722544c1f6c82be3b2fa5b0c37383065fe14"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "a37c3cff45abb836d66cd1dd80bad63fe023eb6a08b7001753bf6437f1884d4e"
-metafile = true
-
-[[files]]
 file = "mods/book-of-experience.pw.toml"
 hash = "3e1da1d5c2df8fc1e05be8b89ade78ba753e967dd197df8f9c8a09c101931aae"
 metafile = true
@@ -602,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/heracles.pw.toml"
 hash = "3460277f521c66c6f32ad2b64369139c01d8fbc1237266d7416d43de758c3bb4"
+metafile = true
+
+[[files]]
+file = "mods/homabric.pw.toml"
+hash = "8666a48e264074197f9ddc88606cbb3efe2e1f9ef50fc603928d76d1e009f4f2"
 metafile = true
 
 [[files]]
@@ -1047,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
 metafile = true
 
 [[files]]
